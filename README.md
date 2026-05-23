@@ -40,8 +40,8 @@ No external libraries required — runs on pure Python 3 stdlib.
 ### Clone or download
 
 ```bash
-git clone https://github.com/tanvirahmedcs/admins.git
-cd admins
+https://github.com/tanvirahmedcs/admin-finder.git
+cd admin-finder
 ```
 
 ### Make it a global command (Linux / macOS)
