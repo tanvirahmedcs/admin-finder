@@ -1,0 +1,1104 @@
+# ══════════════════════════════════════════════════════════════════
+# admins — Admin Panel Finder Wordlist
+# For authorized penetration testing and bug bounty use only.
+# ══════════════════════════════════════════════════════════════════
+
+# ──────────────────────────────────────────────
+# GENERIC ADMIN
+# ──────────────────────────────────────────────
+admin
+admin/
+admin/index
+admin/index.php
+admin/index.html
+admin/index.asp
+admin/index.aspx
+admin/login
+admin/login.php
+admin/login.html
+admin/login.asp
+admin/login.aspx
+admin/dashboard
+admin/dashboard.php
+admin/panel
+admin/panel.php
+admin/control
+admin/control.php
+admin/cp
+admin/cp.php
+admin/account
+admin/account.php
+admin/manage
+admin/manage.php
+admin/admin
+admin/admin.php
+admin/admin.html
+admin/home
+admin/home.php
+admin/main
+admin/main.php
+admin/portal
+admin/portal.php
+admin/console
+admin/console.php
+admin/config
+admin/config.php
+admin/settings
+admin/settings.php
+admin/overview
+admin/overview.php
+admin/start
+admin/start.php
+admin/default
+admin/default.php
+admin/backend
+admin/backend.php
+
+# ──────────────────────────────────────────────
+# ADMIN AREA / PANEL
+# ──────────────────────────────────────────────
+admin_area
+admin_area/
+admin_area/login
+admin_area/login.php
+admin_area/index.php
+admin_panel
+admin_panel/
+admin_panel/login
+admin_panel/login.php
+admin_panel/index.php
+adminpanel
+adminpanel/
+adminpanel/login.php
+adminarea
+adminarea/
+adminarea/login.php
+admin-area
+admin-area/
+admin-panel
+admin-panel/
+admin-login
+admin-login.php
+admin-login.html
+
+# ──────────────────────────────────────────────
+# ADMINISTRATOR
+# ──────────────────────────────────────────────
+administrator
+administrator/
+administrator/login
+administrator/login.php
+administrator/login.html
+administrator/index
+administrator/index.php
+administrator/admin
+administrator/admin.php
+administrator/dashboard
+administrator/dashboard.php
+administrator/panel
+administrator/control
+administrator/cp
+administrator/account
+administrator/manage
+
+# ──────────────────────────────────────────────
+# ADMINISTRATION
+# ──────────────────────────────────────────────
+administration
+administration/
+administration/login
+administration/login.php
+administration/index.php
+administration/dashboard
+
+# ──────────────────────────────────────────────
+# LOGIN / SIGNIN / AUTH
+# ──────────────────────────────────────────────
+login
+login/
+login.php
+login.html
+login.asp
+login.aspx
+login.cfm
+login.cgi
+login.pl
+login.py
+login.rb
+login.jsp
+login.do
+login.action
+login/index.php
+signin
+signin/
+signin.php
+signin.html
+signin.asp
+signin.aspx
+sign-in
+sign-in.php
+sign-in.html
+sign_in
+sign_in.php
+sign_in.html
+log-in
+log-in.php
+log_in
+auth
+auth/
+auth/login
+auth/login.php
+auth/signin
+auth/index.php
+auth/admin
+authenticate
+authenticate.php
+authentication
+authentication/
+authentication/login
+sso/login
+sso/admin
+sso
+
+# ──────────────────────────────────────────────
+# USER / ACCOUNT / MEMBER LOGIN
+# ──────────────────────────────────────────────
+user/login
+user/login.php
+user/signin
+user/admin
+user/dashboard
+users/login
+users/login.php
+users/admin
+account/login
+account/login.php
+account/signin
+account/admin
+accounts/login
+accounts/login.php
+member/login
+member/login.php
+member/admin
+members/login
+members/login.php
+members/admin
+member-login
+member-login.php
+memberlogin
+memberlogin.php
+
+# ──────────────────────────────────────────────
+# DASHBOARD / BACKEND / BACKOFFICE
+# ──────────────────────────────────────────────
+dashboard
+dashboard/
+dashboard/login
+dashboard/login.php
+dashboard/admin
+dashboard/index.php
+backend
+backend/
+backend/login
+backend/login.php
+backend/admin
+backend/index.php
+backend/dashboard
+backoffice
+backoffice/
+backoffice/login
+backoffice/login.php
+backoffice/admin
+back-office
+back-office/
+back-office/login
+back_office
+back_office/login
+
+# ──────────────────────────────────────────────
+# PANEL / CPANEL / CONTROL PANEL
+# ──────────────────────────────────────────────
+panel
+panel/
+panel/login
+panel/login.php
+panel/admin
+panel/index.php
+cpanel
+cpanel/
+cpanel/login
+cpanel/index.php
+controlpanel
+controlpanel/
+controlpanel/login
+control-panel
+control-panel/
+control_panel
+control_panel/
+controlroom
+controlroom/login
+
+# ──────────────────────────────────────────────
+# MANAGE / MANAGEMENT
+# ──────────────────────────────────────────────
+manage
+manage/
+manage/login
+manage/admin
+manage/index.php
+management
+management/
+management/login
+management/admin
+management/index.php
+manager
+manager/
+manager/login
+manager/admin
+manager/index.php
+
+# ──────────────────────────────────────────────
+# PORTAL / SECURE / PRIVATE / INTERNAL
+# ──────────────────────────────────────────────
+portal
+portal/
+portal/login
+portal/login.php
+portal/admin
+secure
+secure/
+secure/login
+secure/login.php
+secure/admin
+private
+private/
+private/login
+private/login.php
+private/admin
+internal
+internal/
+internal/login
+internal/admin
+internal/dashboard
+intranet
+intranet/
+intranet/login
+intranet/admin
+extranet
+extranet/
+extranet/login
+restricted
+restricted/
+restricted/login
+hidden
+hidden/admin
+
+# ──────────────────────────────────────────────
+# MODERATOR / STAFF / SUPERADMIN
+# ──────────────────────────────────────────────
+moderator
+moderator/
+moderator/login
+moderator/login.php
+moderator/admin
+mod
+mod/login
+mod/admin
+staff
+staff/
+staff/login
+staff/login.php
+staff/admin
+staff/dashboard
+stafflogin
+stafflogin.php
+superadmin
+superadmin/
+superadmin/login
+superadmin/login.php
+super-admin
+super_admin
+sysadmin
+sysadmin/
+sysadmin/login
+root
+root/login
+webmaster
+webmaster/
+owner
+owner/login
+operator
+operator/login
+supervisor
+supervisor/login
+editor
+editor/login
+editor/admin
+
+# ──────────────────────────────────────────────
+# WORDPRESS
+# ──────────────────────────────────────────────
+wp-admin
+wp-admin/
+wp-admin/index.php
+wp-admin/admin.php
+wp-admin/network/
+wp-admin/admin-ajax.php
+wp-admin/options-general.php
+wp-admin/users.php
+wp-admin/plugins.php
+wp-admin/themes.php
+wp-admin/update-core.php
+wp-login.php
+wp-login.php?action=register
+wp-login.php?action=lostpassword
+wordpress/wp-admin
+wordpress/wp-login.php
+wp/wp-admin
+wp/wp-login.php
+blog/wp-admin
+blog/wp-login.php
+cms/wp-admin
+cms/wp-login.php
+site/wp-admin
+site/wp-login.php
+xmlrpc.php
+
+# ──────────────────────────────────────────────
+# JOOMLA
+# ──────────────────────────────────────────────
+administrator/index.php
+administrator/login.php
+joomla/administrator
+joomla/administrator/
+joomla/administrator/index.php
+cms/administrator
+cms/administrator/index.php
+site/administrator
+blog/administrator
+
+# ──────────────────────────────────────────────
+# DRUPAL
+# ──────────────────────────────────────────────
+user/login
+user/register
+user/password
+drupal/user/login
+drupal/admin
+sites/default/files
+?q=admin
+?q=user/login
+?q=node/add
+drupal/admin/config
+
+# ──────────────────────────────────────────────
+# MAGENTO
+# ──────────────────────────────────────────────
+admin
+index.php/admin
+index.php/admin/dashboard
+magento/admin
+magento/index.php/admin
+downloader
+downloader/index.php
+mageadmin
+mageadmin/
+admin/dashboard/index/key
+
+# ──────────────────────────────────────────────
+# PRESTASHOP
+# ──────────────────────────────────────────────
+adminprestashop
+adminprestashop/index.php
+admin123
+admin123/index.php
+admin1
+admin1/index.php
+admin-dev
+admin-dev/index.php
+
+# ──────────────────────────────────────────────
+# OPENCART
+# ──────────────────────────────────────────────
+admin/index.php?route=common/login
+admin/index.php?route=common/dashboard
+opencart/admin
+store/admin
+
+# ──────────────────────────────────────────────
+# WOOCOMMERCE / SHOPIFY-LIKE
+# ──────────────────────────────────────────────
+wp-admin/admin.php?page=woocommerce
+wp-admin/admin.php?page=wc-settings
+admin/login?redirect_url=/admin
+
+# ──────────────────────────────────────────────
+# LARAVEL
+# ──────────────────────────────────────────────
+nova
+nova/login
+horizon
+horizon/login
+telescope
+telescope/requests
+laravel-admin
+laravel-admin/auth/login
+admin-laravel
+fortify/login
+sanctum/csrf-cookie
+login
+register
+password/reset
+
+# ──────────────────────────────────────────────
+# DJANGO
+# ──────────────────────────────────────────────
+admin/
+admin/login/
+admin/logout/
+admin/password_change/
+admin/doc/
+admin/doc/bookmarklets/
+django-admin
+django-admin/login
+djadmin
+
+# ──────────────────────────────────────────────
+# RAILS / RUBY
+# ──────────────────────────────────────────────
+rails/admin
+rails/admin/login
+rails_admin
+rails_admin/login
+admin/rails
+administrate
+active_admin
+users/sign_in
+admins/sign_in
+
+# ──────────────────────────────────────────────
+# SYMFONY / PHP FRAMEWORKS
+# ──────────────────────────────────────────────
+app_dev.php/admin
+app.php/admin
+app_dev.php/_profiler
+_profiler
+_wdt
+easyadmin
+easyadmin/login
+sonata/admin
+sonata/admin/login
+bolt/login
+bolt/dashboard
+contao/login
+typo3
+typo3/index.php
+typo3/login
+
+# ──────────────────────────────────────────────
+# PHPMYADMIN
+# ──────────────────────────────────────────────
+phpmyadmin
+phpmyadmin/
+phpmyadmin/index.php
+phpMyAdmin
+phpMyAdmin/
+phpMyAdmin/index.php
+phpMyAdmin2
+phpMyAdmin2/
+pma
+pma/
+pma/index.php
+PMA
+PMA/
+myadmin
+myadmin/
+myadmin/index.php
+mysql
+mysql/
+mysql/index.php
+mysqladmin
+mysqladmin/
+sqlmanager
+sqlmanager/
+mysqlmanager
+mysqlmanager/
+php-myadmin
+php_myadmin
+phpmyadmin2
+phpmyadmin3
+phpmyadmin4
+phpmyadmin5
+
+# ──────────────────────────────────────────────
+# ADMINER / OTHER DB TOOLS
+# ──────────────────────────────────────────────
+adminer
+adminer.php
+adminer/
+adminer/adminer.php
+database/adminer.php
+db/adminer.php
+tools/adminer.php
+adminer-4.7.9.php
+adminer-4.8.1.php
+adminer-4.8.0.php
+adminer-4.7.8.php
+phppgadmin
+phppgadmin/
+phpPgAdmin
+phpPgAdmin/
+pgadmin
+pgadmin/
+pgadmin4
+pgadmin4/
+mongodb-admin
+mongodbadmin
+rockmongo
+rockmongo/
+
+# ──────────────────────────────────────────────
+# WEBMIN / SERVER ADMIN PANELS
+# ──────────────────────────────────────────────
+webmin
+webmin/
+webmin/index.cgi
+:10000
+:10000/
+:10000/index.cgi
+usermin
+usermin/
+:20000
+:20000/
+plesk
+plesk/
+plesk/login_up.php
+:8443
+:8443/login_up.php
+directadmin
+directadmin/
+:2222
+:2222/CMD_LOGIN
+whm
+whm/
+:2082
+:2082/
+:2083
+:2083/
+:2086
+:2086/
+:2087
+:2087/
+kloxo
+kloxo/
+:7778
+zpanel
+zpanel/
+centos-webpanel
+cwp
+cwp/
+virtualmin
+virtualmin/
+:10000/virtual-server
+ISPConfig
+ISPConfig/
+ispconfig
+ispconfig/
+:8080/ISPConfig
+:8080/ispconfig
+
+# ──────────────────────────────────────────────
+# CI/CD & DEVOPS PANELS
+# ──────────────────────────────────────────────
+jenkins
+jenkins/
+jenkins/login
+:8080
+:8080/login
+:8080/jenkins
+grafana
+grafana/
+:3000
+:3000/login
+:3000/admin
+kibana
+kibana/
+:5601
+:5601/login
+:5601/app/kibana
+prometheus
+prometheus/
+:9090
+:9090/graph
+portainer
+portainer/
+:9000
+:9000/#!/auth
+rancher
+rancher/
+:8443
+traefik
+traefik/dashboard
+:8080/dashboard
+sonarqube
+sonarqube/
+:9000/sonarqube
+gitlab
+gitlab/admin
+gitlab/users/sign_in
+:8929
+nexus
+nexus/
+:8081
+:8081/#admin
+artifactory
+artifactory/
+:8082
+drone
+drone/
+:8000
+rundeck
+rundeck/
+:4440
+ansible/tower
+tower
+
+# ──────────────────────────────────────────────
+# MONITORING & ANALYTICS
+# ──────────────────────────────────────────────
+nagios
+nagios/
+nagiosxi
+nagiosxi/
+zabbix
+zabbix/
+zabbix/index.php
+icinga
+icinga/
+icingaweb2
+icingaweb2/
+:8080/icinga
+prtg
+prtg/
+netdata
+netdata/
+:19999
+cacti
+cacti/
+cacti/index.php
+munin
+munin/
+mrtg
+mrtg/
+opennms
+opennms/
+observium
+observium/
+librenms
+librenms/
+
+# ──────────────────────────────────────────────
+# API / REST ADMIN ENDPOINTS
+# ──────────────────────────────────────────────
+api/admin
+api/admin/
+api/admin/login
+api/admin/dashboard
+api/admin/users
+api/v1/admin
+api/v1/admin/login
+api/v1/admin/users
+api/v1/admin/dashboard
+api/v2/admin
+api/v2/admin/login
+api/v2/admin/users
+api/v3/admin
+api/v3/admin/login
+rest/admin
+rest/admin/login
+rest/v1/admin
+graphql
+graphql/admin
+graphiql
+swagger
+swagger/
+swagger-ui
+swagger-ui/
+swagger-ui.html
+swagger-ui/index.html
+api-docs
+api-docs/
+api/docs
+api/swagger
+openapi
+openapi.json
+openapi.yaml
+v1/admin
+v2/admin
+v3/admin
+
+# ──────────────────────────────────────────────
+# CONFIG / SETUP / INSTALL
+# ──────────────────────────────────────────────
+config
+config/
+config.php
+config.yaml
+config.yml
+config.json
+config.xml
+config.ini
+configuration.php
+configuration.yaml
+configuration.json
+settings
+settings/
+settings.php
+settings.yaml
+settings.json
+setup
+setup/
+setup.php
+setup/index.php
+install
+install/
+install.php
+install/index.php
+installer
+installer/
+installer.php
+upgrade
+upgrade/
+upgrade.php
+update
+update/
+update.php
+maintenance
+maintenance/
+maintenance.php
+repair
+repair/
+repair.php
+console
+console/
+console.php
+
+# ──────────────────────────────────────────────
+# CMS — MISCELLANEOUS
+# ──────────────────────────────────────────────
+umbraco
+umbraco/
+umbraco/login.aspx
+Umbraco
+umbraco/umbraco/login.aspx
+sitefinity
+sitefinity/
+sitefinity/login
+kentico
+kentico/
+kentico/CMSPages/logon.aspx
+sitecore
+sitecore/
+sitecore/login
+orchard
+orchard/
+orchard/admin
+craft
+craft/
+craft/admin
+craft/admin/login
+cockpit
+cockpit/
+cockpit/auth/login
+strapi
+strapi/
+strapi/admin
+ghost
+ghost/
+ghost/admin
+ghost/ghost/signin
+kirby
+kirby/panel
+directus
+directus/
+directus/admin
+contentful
+payload
+payload/admin
+sanity
+sanity/desk
+keystone
+keystone/
+keystone/sign-in
+prismic
+
+# ──────────────────────────────────────────────
+# ECOMMERCE
+# ──────────────────────────────────────────────
+shop/admin
+shop/administrator
+store/admin
+store/administrator
+catalog/admin
+cart/admin
+ecommerce/admin
+products/admin
+orders/admin
+inventory/admin
+marketplace/admin
+vendor/admin
+
+# ──────────────────────────────────────────────
+# HELP DESK / SUPPORT SYSTEMS
+# ──────────────────────────────────────────────
+helpdesk
+helpdesk/
+helpdesk/admin
+helpdesk/login
+support
+support/admin
+support/login
+ticket
+tickets
+tickets/admin
+freshdesk
+freshdesk/admin
+zendesk
+zammad
+zammad/
+glpi
+glpi/
+osticket
+osticket/
+hesk
+hesk/admin
+spiceworks
+spiceworks/
+
+# ──────────────────────────────────────────────
+# MAIL / WEBMAIL
+# ──────────────────────────────────────────────
+webmail
+webmail/
+webmail/admin
+roundcube
+roundcube/
+squirrelmail
+squirrelmail/
+horde
+horde/
+postfixadmin
+postfixadmin/
+mailadmin
+mailadmin/
+mail
+mail/admin
+email/admin
+iredadmin
+iredadmin/
+mailman
+mailman/admindb
+mailman/listinfo
+
+# ──────────────────────────────────────────────
+# VPN / NETWORK / FIREWALL
+# ──────────────────────────────────────────────
+vpn
+vpn/admin
+vpn/login
+openvpn
+openvpn/admin
+pfsense
+pfsense/
+:8443/vpn
+:8443/admin
+:4848
+:4848/
+glassfish
+glassfish/admin
+fortigate
+fortigate/admin
+:9443
+:9443/
+
+# ──────────────────────────────────────────────
+# JAVA / ENTERPRISE
+# ──────────────────────────────────────────────
+manager/html
+host-manager/html
+jmx-console
+web-console
+jkmanager
+jkmanager/
+admin-console
+admin-console/
+:8443/admin-console
+:8080/manager/html
+:8080/host-manager/html
+:8080/jmx-console
+:8080/web-console
+:9990
+:9990/console
+:7001
+:7001/console
+:4848/common/index.jsf
+struts
+struts/admin
+spring-boot-admin
+spring-boot-admin/
+
+# ──────────────────────────────────────────────
+# NODE / EXPRESS
+# ──────────────────────────────────────────────
+admin-bro
+admin-bro/
+adminjs
+adminjs/
+forest-admin
+bull-board
+bull-board/
+:3000/admin
+:4000/admin
+:5000/admin
+:8000/admin
+:8000/admin/login
+
+# ──────────────────────────────────────────────
+# BACKUP / LOGS / DEBUG
+# ──────────────────────────────────────────────
+backup
+backup/
+backup/index.php
+backups
+logs
+logs/
+logs/admin
+log
+log/admin
+debug
+debug/
+debug/admin
+test
+test/admin
+testing
+testing/admin
+dev
+dev/admin
+development
+development/admin
+staging
+staging/admin
+old
+old/admin
+tmp
+tmp/admin
+temp
+temp/admin
+
+# ──────────────────────────────────────────────
+# SENSITIVE FILES & PATHS
+# ──────────────────────────────────────────────
+.env
+.env.local
+.env.production
+.env.development
+.git/config
+.git/HEAD
+.gitignore
+.htaccess
+.htpasswd
+web.config
+server.xml
+app.config
+app.yaml
+Dockerfile
+docker-compose.yml
+docker-compose.yaml
+.dockerignore
+robots.txt
+sitemap.xml
+crossdomain.xml
+clientaccesspolicy.xml
+phpinfo.php
+info.php
+test.php
+eval.php
+shell.php
+db.php
+database.php
+wp-config.php
+wp-config.php.bak
+wp-config.bak
+config.php.bak
+config.bak
+settings.php.bak
+.DS_Store
+thumbs.db
+
+# ──────────────────────────────────────────────
+# COMMON ALTERNATE PORTS (append manually to -d flag if needed)
+# Listing as reference paths for documentation
+# ──────────────────────────────────────────────
+# :80/admin
+# :443/admin
+# :8080/admin
+# :8443/admin
+# :8888/admin
+# :9000/admin
+# :9090/admin
+# :3000/admin
+# :4000/admin
+# :5000/admin
+# :7000/admin
+# :8000/admin
+# :8001/admin
+# :8181/admin
+# :8888/admin
+# :10000/admin
+
+# ──────────────────────────────────────────────
+# COUNTRY / LANGUAGE PREFIXED
+# ──────────────────────────────────────────────
+en/admin
+en/admin/login
+en-us/admin
+en-gb/admin
+us/admin
+gb/admin
+de/admin
+fr/admin
+es/admin
+it/admin
+pt/admin
+nl/admin
+ru/admin
+ar/admin
+zh/admin
+ja/admin
+ko/admin
+
+# ──────────────────────────────────────────────
+# VERSIONED / DATED PATHS
+# ──────────────────────────────────────────────
+v1/admin
+v2/admin
+v3/admin
+v4/admin
+2022/admin
+2023/admin
+2024/admin
+new/admin
+old/admin
+legacy/admin
+beta/admin
+alpha/admin
+staging/admin
+demo/admin
+test/admin
+dev/admin
+
+# ══════════════════════════════════════════════
+# END OF WORDLIST
+# Total: ~800+ paths
+# For authorized penetration testing and bug bounty use only.
+# ══════════════════════════════════════════════
